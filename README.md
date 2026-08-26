@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Samir!
 
-<!--
-**PrinceOfPersiaDev/PrinceOfPersiaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer & Security Enthusiast**
 
-Here are some ideas to get you started:
+I build modern web applications, automation tools, Telegram bots, and network-focused projects with an emphasis on clean design, performance, and reliable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack & Tools
+
+* **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
+* **Backend:** Node.js, Express, REST APIs
+* **Security & Networking:** Web Security, Network Protocols, Network Solutions
+* **Automation:** Telegram Bots & Automation
+* **Version Control & DevOps:** Git, GitHub, GitHub Pages
+
+---
+
+### 🚀 Featured Project
+
+💎 **AMINI NETWORK**
+A platform for software services, networking solutions, online services, and Telegram-based automation.
+
+---
+
+### 📊 GitHub Stats
+
+![Prince Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeofpersia\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+* **GitHub:** [@princeofpersia](https://github.com/princeofpersia)
+* **Portfolio:** [princeofpersiadev.github.io](https://princeofpersiadev.github.io)
+
+---
+
+> 🚀 Build. Learn. Improve. Repeat.
