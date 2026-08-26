@@ -25,13 +25,13 @@ A platform for software services, networking solutions, online services, and Tel
 
 ### 📊 GitHub Stats
 
-![Prince Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeofpersia\&show_icons=true\&theme=tokyonight)
+![Prince Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrinceOfPersiaDev\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ### 📫 Connect With Me
 
-* **GitHub:** [@princeofpersia](https://github.com/princeofpersia)
+* **GitHub:** [@PrinceOfPersiaDev](https://github.com/PrinceOfPersiaDev)
 * **Portfolio:** [princeofpersiadev.github.io](https://princeofpersiadev.github.io)
 
 ---
